@@ -12,7 +12,7 @@ No Database Experience você vai passar por 54 horas de imersão, com experiênc
 queries entre outras.  
 
 <div alling = 'center'>
-  <img src = 'https://hermes.digitalinnovation.one/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png' width = '30px' hight= '100px' />
+  <img src = 'https://hermes.digitalinnovation.one/tracks/7df7e300-b035-4b09-a7ad-34d1cb18f9a6.png' width = '300px'  />
 </div>
 
 
